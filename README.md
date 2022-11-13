@@ -1,6 +1,7 @@
-[![MasterHead](https://png.pngtree.com/background/20211215/original/pngtree-business-line-radiation-light-effect-blue-technology-banner-picture-image_1493104.jpg)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Diwas Arya</h1>
-<h3 align="center">A passionate full stack java developer from India</h3>
+# <img width="80px" src="https://user-images.githubusercontent.com/2780145/172943108-beb1fb36-3195-4b1a-8d14-cbba8d0400ea.gif" />Hi there!  
+<img src="https://user-images.githubusercontent.com/2780145/123766936-ba9e1f00-d8e4-11eb-9f08-488da835cff4.jpg" /> 
+<h1 align="center">I'm Diwas Arya</h1>
+<h3 align="center">A Java Full Stack Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diwas25&label=Profile%20views&color=0e75b6&style=flat" alt="diwas25" /> </p>
