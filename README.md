@@ -1,4 +1,4 @@
-[![MasterHead](https://media.istockphoto.com/id/1353553203/photo/forest-wooden-table-background-summer-sunny-meadow-with-green-grass-forest-trees-background.jpg?b=1&s=170667a&w=0&k=20&c=-jvR1WDwcloLXRgRTGeyG3frvrhPIbegdemeL6vY2Pk=)](https://rishavchanda.io)
+[![MasterHead](https://png.pngtree.com/background/20211215/original/pngtree-business-line-radiation-light-effect-blue-technology-banner-picture-image_1493104.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Diwas Arya</h1>
 <h3 align="center">A passionate full stack java developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
